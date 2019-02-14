@@ -1,7 +1,7 @@
 class Person
  end 
  
- adele_goldber = Person 
+ adele goldber = Person 
  
- alan_kay = Person
+ alan kay = Person
  
