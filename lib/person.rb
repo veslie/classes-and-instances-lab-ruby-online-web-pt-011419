@@ -1,7 +1,6 @@
 class Person
  end 
  
- adele goldber = Person 
+ adele = Person.new
  
- alan kay = Person
- 
+ alan = Person.new
